@@ -1,0 +1,72 @@
+
+.cellphone footer{
+display:flex;
+padding: 1px;
+background-color: #02312d;
+color: #ffffff;
+margin-left:10px;
+text-align:left;
+font-style:normal;
+}
+
+.cellphone button{
+    background-color:#02312d;
+    border:0px; 
+    border-color:#02312d;
+    display:block;
+margin-left:10px;
+float:right;
+
+}
+ .menu footer{
+padding:15px;
+background-color: #d1d1d1;
+color:#02312d;
+margin-top:10px;
+font-size:20px;
+font-style:normal;
+display:flex;
+ }
+
+ .menu input{
+margin-left:100px;
+height:30px;
+width:700px;
+margin-top:15px;
+}
+
+.total{
+background-color:#000000;
+size:auto;
+}
+
+.mng{
+    margin-left:10px;
+}
+.choco {
+    padding:50px;
+    margin-top:-60px;
+    background-color:#b9b9b9;
+}
+.choco img{
+    border-radius:10px;
+    border-width:10px;
+}
+.choco input{
+    width:100px;
+    height:30px;
+    margin-top:-10px;
+}
+.choco p{
+    margin-top:-1px;
+}
+
+.copyright footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #000000;
+    color: #fff;
+    font-style:normal;
+  }
+  
